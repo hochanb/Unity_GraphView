@@ -1,0 +1,16 @@
+.graphView .node {
+    background-color: #282828;
+    color: white;
+}
+
+.graphView .node .title {
+    background-color: #3c3c3c;
+}
+
+.graphView .node .input, .graphView .node .output {
+    background-color: #484848;
+}
+
+.graphView .node .input .port-label, .graphView .node .output .port-label {
+    color: white;
+}
